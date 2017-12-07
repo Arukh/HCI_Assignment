@@ -12,6 +12,7 @@ Mohammed Baban
 <br>
 <br>
 
+<h2> Content </h2>
 <p> This evaluation exercise plan GitHub repository contains the following: </p>
 <ul>● Heuristics evaluation of prototype submitted in Assignment 1. </ul>
 <ul>● Document outlining suggested edits, additions, and removal of features. </ul>

@@ -12,12 +12,12 @@ Mohammed Baban
 <br>
 <br>
 
-<h3> This evaluation exercise plan GitHub repository contains the following: </h3>
-<ul> Heuristics evaluation of prototype submitted in Assignment 1. </ul>
-<ul> Document outlining suggested edits, additions, and removal of features. </ul>
-<ul> Implementation plan outlining the progression of both assignments on a timeline. </ul>
-<ul> Interactive layout of a portion of the application. </ul>
-<ul> The initial Assignment 1, on which the evaluation was performed. </ul>
+<p> This evaluation exercise plan GitHub repository contains the following: </p>
+<ul>● Heuristics evaluation of prototype submitted in Assignment 1. </ul>
+<ul>● Document outlining suggested edits, additions, and removal of features. </ul>
+<ul>● Implementation plan outlining the progression of both assignments on a timeline. </ul>
+<ul>● Interactive layout of a portion of the application. </ul>
+<ul>● The initial Assignment 1, on which the evaluation was performed. </ul>
 <br>
 <br>
 Human Computer Interaction

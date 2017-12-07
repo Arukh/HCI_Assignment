@@ -1,5 +1,5 @@
 # ITE408 - Human Computer Interaction 
-<h3> Evaluation Summary </h3>
+<h2> Evaluation Summary </h2>
 
 Banu Bakr Aziz
 <br>
@@ -12,7 +12,7 @@ Mohammed Baban
 <br>
 <br>
 
-This evaluation exercise plan GitHub repository contains the following:
+<h3> This evaluation exercise plan GitHub repository contains the following: </h3>
 <ul> Heuristics evaluation of prototype submitted in Assignment 1. </ul>
 <ul> Document outlining suggested edits, additions, and removal of features. </ul>
 <ul> Implementation plan outlining the progression of both assignments on a timeline. </ul>

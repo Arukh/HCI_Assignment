@@ -1,5 +1,5 @@
 # ITE408 - Human Computer Interaction 
-
+Course Assignments Repository
 <br>
 <br>
 <h2> Evaluation Summary </h2>
